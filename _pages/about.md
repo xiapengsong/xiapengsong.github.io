@@ -16,20 +16,22 @@ My research interests include:
 - Corporate finance and financial development  
 - Culture, historical institutions, and finance  
 - Information frictions in lending and capital markets  
-- AI, fintech, and digital disclosure in finance  
+- AI, fintech, and digital disclosure in finance
 
-Education Background
+
+  
+Education
 ======
-PhD in Finance, University of Edinburgh, 2021-now
-
-MSc in Accounting and Finance, London School of Economics and Political Science, 2021
-
-BSc in Economics, University College London, 2020
+* Ph.D in Finance, University of Edinburgh, 2026 (expected)
+* M.S. in Accounting and Finance, London School of Economics and Political Science, 2021
+* B.S. in Economics, University College London, 2020
 
 
 Job Market Paper
 ======
 **Xiapeng Song**, Wenxuan Hou*, Tong Wang. Labor Coercion, Anti-Market Culture, and Finance: The Lesson from Historical Serfdom of the Russian Empire. (Under Review in Journal of Corporate Finance)
+
+
 
 Working Paper
 ======
@@ -48,6 +50,7 @@ Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. Why Stablecoins Fail: Design Fragi
 **Xiapeng Song**, Wenxuan Hou*, Tong Wang. Dictatorship, Repression, and Financial Development.
 
 **Xiapeng Song**, Wenxuan Hou*, Tong Wang. Political Fractionalization, Spatial Competition, and Corporate Innovation. 
+
 
 
 Other Info
