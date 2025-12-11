@@ -18,6 +18,11 @@ My research interests include:
 - Information frictions in lending and capital markets  
 - AI, fintech, and digital disclosure in finance  
 
+Education Background
+======
+PhD in Finance, 2021-now
+University of Edinburgh
+
 
 
 You can find more information using the menu above:
