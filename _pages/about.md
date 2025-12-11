@@ -26,6 +26,7 @@ MSc in Accounting and Finance, London School of Economics and Political Science,
 
 BSc in Economics, University College London, 2020
 
+======
 
 You can find more information using the menu above:
 
