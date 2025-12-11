@@ -21,6 +21,7 @@ My research interests include:
 Education Background
 ======
 PhD in Finance, 2021-now
+
 University of Edinburgh
 
 
