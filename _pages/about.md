@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiapeng Song"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,8 @@ redirect_from:
 
 Welcome to my page!
 
-I am **Xiapeng Song**, a PhD candidate in Finance at the University of Edinburgh Business School (expected July 2026).  
+I am **Xiapeng Song**, a Ph.D. candidate in Finance at the University of Edinburgh Business School, expecting to complete my degree in July 2026.
+I am currently on the job market and looking for an tenure-track position.
 
 My research interests include:
 
