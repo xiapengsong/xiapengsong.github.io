@@ -29,7 +29,7 @@ BSc in Economics, University College London, 2020
 
 Job Market Paper
 ======
-**Xiapeng Song**, Wenxuan Hou*, Tong Wang. Labor Coercion, Anti-Market Culture, and Finance: The Lesson from Historical Serfdom of the Russian Empire. (Under Review in Journal of Corporate Financ)
+**Xiapeng Song**, Wenxuan Hou*, Tong Wang. Labor Coercion, Anti-Market Culture, and Finance: The Lesson from Historical Serfdom of the Russian Empire. (Under Review in Journal of Corporate Finance)
 
 Working Paper
 ======
@@ -50,7 +50,8 @@ Fangmin Hao, Wenxuan Hou, Xiapeng Song*. Why Stablecoins Fail: Design Fragilitie
 **Xiapeng Song\***, Wenxuan Hou*, Tong Wang. Political Fractionalization, Spatial Competition, and Corporate Innovation. 
 
 
-
+Other Info
+======
 You can find more information using the menu above:
 
 - **Publications** – working papers and publications  
