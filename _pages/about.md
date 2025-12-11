@@ -20,10 +20,11 @@ My research interests include:
 
 Education Background
 ======
-PhD in Finance, 2021-now
+PhD in Finance, University of Edinburgh, 2021-now
 
-University of Edinburgh
+MSc in Accounting and Finance, London School of Economics and Political Science, 2021
 
+BSc in Economics, University College London, 2020
 
 
 You can find more information using the menu above:
