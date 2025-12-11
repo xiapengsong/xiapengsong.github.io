@@ -12,6 +12,7 @@ I am **Xiapeng Song**, a Ph.D. candidate in Finance at the University of Edinbur
 I am currently on the academic job market and seeking a tenure-track faculty position, and welcome all opportunities.
 
 My emails: song_xiapeng@163.com / Xiapeng.Song@ed.ac.uk
+
 Wechat: Lullaby_ouos
 
 My research interests include:
