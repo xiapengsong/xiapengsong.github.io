@@ -18,15 +18,6 @@ My research interests include:
 - Information frictions in lending and capital markets  
 - AI, fintech, and digital disclosure in finance  
 
----
-permalink: /
-title: "Education"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 
 
 You can find more information using the menu above:
