@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my page!
 
 I am **Xiapeng Song**, a Ph.D. candidate in Finance at the University of Edinburgh Business School, expecting to complete my degree in July 2026.
-I am currently on the job market and looking for an tenure-track position.
+I am currently on the academic job market and seeking a tenure-track faculty position.
 
 My research interests include:
 
