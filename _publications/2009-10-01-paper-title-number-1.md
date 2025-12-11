@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Labor Coercion, Anti-Market Culture, and Finance: Lessons from Historical Serfdom of the Russian Empire"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: jmp
+permalink: /publication/2025-01-01-labor-coercion-anti-market-culture-finance
+excerpt: "This paper studies how historical labor coercion shapes persistent anti-market culture and constrains contemporary financial development."
+date: 2025-01-01
+venue: "Job Market Paper"
+slidesurl: ""
+paperurl: ""
+bibtexurl: ""
+citation: "Song, Xiapeng. (2025). &quot;Labor Coercion, Anti-Market Culture, and Finance: Lessons from Historical Serfdom of the Russian Empire.&quot; <i>Job Market Paper</i>."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper examines how coercive legacies generate durable anti-market attitudes and explores their implications for modern financial development.  
+(You can add a longer abstract, key results, data, and identification details here.)
