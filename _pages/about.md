@@ -11,9 +11,6 @@ redirect_from:
 I am **Xiapeng Song**, a Ph.D. candidate in Finance at the University of Edinburgh Business School, expecting to complete my degree in July 2026.
 I am currently on the academic job market and seeking a tenure-track faculty position, and welcome all opportunities.
 
-My emails: song_xiapeng@163.com / Xiapeng.Song@ed.ac.uk
-
-Wechat: Lullaby_ouos
 
 My research interests include:
 
@@ -23,6 +20,9 @@ My research interests include:
 - AI, fintech, and digital disclosure in finance
 
 
+My emails: song_xiapeng@163.com / Xiapeng.Song@ed.ac.uk
+
+Wechat: Lullaby_ouos
   
 Education
 ======
