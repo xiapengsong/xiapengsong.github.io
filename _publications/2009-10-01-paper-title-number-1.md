@@ -4,7 +4,7 @@ collection: publications
 category: jmp
 # permalink: /publication/2025-01-01-labor-coercion-anti-market-culture-finance
 excerpt: "This paper studies how historical labor coercion shapes persistent anti-market culture and constrains contemporary financial development."
-# date: 2025-01-01
+date: 2025-01-01
 venue: "Under Review in Journal of Corporate Finance"
 slidesurl: ""
 paperurl: ""
