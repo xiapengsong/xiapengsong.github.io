@@ -5,7 +5,7 @@ category: working
 excerpt: "This paper studies whether historical connectivity shaped by Roman roads predicts long-run financial development."
 date: 2025-09-01
 venue: "Revise and Resubmit, Journal of Corporate Finance"
-authors: "Hao, Fangmin; Hou, Wenxuan; <strong>Xiapeng Song*</strong>"
+authors: "Hao, Fangmin; Hou, Wenxuan; <strong>Song, Xiapeng*</strong>"
 paperurl: ""
 slidesurl: ""
 bibtexurl: ""
