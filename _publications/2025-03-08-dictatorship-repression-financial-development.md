@@ -5,7 +5,7 @@ category: working
 excerpt: "This paper studies how political repression under dictatorship shapes long-run financial development."
 date: 2025-03-01
 venue: "Working paper & Disseration Chapter, preparing for submission"
-authors: "<strong>Xiapeng Song</strong>; Wenxuan, Hou*; Tong, Wang"
+authors: ""<strong>Song, Xiapeng</strong>; Hou, Wenxuan; Wang, Tong""
 paperurl: ""
 slidesurl: ""
 bibtexurl: ""
