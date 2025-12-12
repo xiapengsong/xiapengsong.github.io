@@ -5,7 +5,7 @@ category: working
 excerpt: "This paper analyzes stablecoin fragilities from the perspectives of design, regulation, and institutions."
 date: 2025-04-01
 venue: "Submitted"
-authors: "Fangmin, Hao; Wenxuan, Hou; <strong>Xiapeng Song*</strong>"
+authors: "Hao, Fangmin; Hou, Wenxuan; <strong>Song, Xiapeng*</strong>"
 paperurl: ""
 slidesurl: ""
 bibtexurl: ""
