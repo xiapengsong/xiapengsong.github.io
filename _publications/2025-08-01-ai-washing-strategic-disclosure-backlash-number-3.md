@@ -5,7 +5,7 @@ category: working
 excerpt: "This paper studies strategic AI-related disclosure and market backlash when narratives are not supported by substantive adoption."
 date: 2025-08-01
 venue: "Minor Revision, Finance Research Letters"
-authors: "<strong>Xiapeng Song</strong>; Hou, Wenxuan; Hao, Fangmin*"
+authors: "<strong>Song, Xiapeng</strong>; Hou, Wenxuan; Hao, Fangmin*"
 paperurl: ""
 slidesurl: ""
 bibtexurl: ""
