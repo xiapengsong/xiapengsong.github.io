@@ -5,7 +5,7 @@ category: working
 excerpt: "This paper studies how exposure to historical repression shapes persistent financial development outcomes."
 date: 2025-06-01
 venue: "Under Review in the Journal of Comparative Economics"
-authors: "Jiang, Dai; Fangmin, Hao; Wenxuan, Hou; <strong>Xiapeng, Song*</strong>"
+authors: "Dai, Jiang; Hao, Fangmin; Hou, Wenxuan; <strong>Song, Xiapeng*</strong>"
 paperurl: ""
 slidesurl: ""
 bibtexurl: ""
