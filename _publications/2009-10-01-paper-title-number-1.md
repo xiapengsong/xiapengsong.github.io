@@ -9,6 +9,7 @@ venue: "Job Market Paper"
 slidesurl: ""
 paperurl: ""
 bibtexurl: ""
+authors: "**Song, Xiapeng**; Hou, Wenxuan*; Wang, Tong"
 # citation: "Song, Xiapeng. (2025). &quot;Labor Coercion, Anti-Market Culture, and Finance: Lessons from Historical Serfdom of the Russian Empire.&quot; <i>Job Market Paper</i>."
 ---
 This paper examines how coercive legacies generate durable anti-market attitudes and explores their implications for modern financial development.  
