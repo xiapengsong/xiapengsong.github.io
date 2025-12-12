@@ -85,9 +85,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   jmp:
-    title: 'Job Market Paper'
+    title: 'Job Market Paper & Dissertation Chapters'
   working:
-    title: 'Working Paper'    
+    title: 'Working Papers'    
   # conferences:
   #  title: 'Conference Papers'
 
