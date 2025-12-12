@@ -5,7 +5,7 @@ category: working
 excerpt: "This paper studies how lending relationship disruptions caused by bank mergers affect firm real outcomes."
 date: 2025-07-01
 venue: "Under Review at the Review of Corporate Finance Studies"
-authors: "<strong>Xiapeng Song</strong>; Aluna, Wang*; Wang, Tong"
+authors: "<strong>Song, Xiapeng</strong>; Wang, Aluna*; Tong, Wang"
 paperurl: ""
 slidesurl: ""
 bibtexurl: ""
