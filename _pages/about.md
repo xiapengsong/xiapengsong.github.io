@@ -41,7 +41,7 @@ Working Paper
 ======
 Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. Does Financial Development Have Roman Roots:The Legacy of Roman Roads. (Revise & Resubmit in Journal of Corporate Finance)
 
-**Xiapeng Song**, Wenxuan Hou, Fangmin Hao. AI Washing: Strategic Disclosure and Backlash. (Minor Revision in Finance Research Letters)
+**Xiapeng Song**, Wenxuan Hou, Fangmin Hao*. AI Washing: Strategic Disclosure and Backlash. (Minor Revision in Finance Research Letters)
 
 **Xiapeng Song**, Aluna Wang*, Tong Wang. Information Portability and the Real Effects of Lending Relationship Disruptions: Evidence from U.S. Bank Mergers. (Under Review in Review of Corporate Finance Studies)
 
