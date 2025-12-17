@@ -9,21 +9,17 @@ location: "Edinburgh, United Kingdom"
 ---
 
 • Served as a teaching assistant for the undergraduate core course Introduction to Corporate Finance
-at the University of Edinburgh Business School during the 2023–2024 and 2024–2025 academic
-years.
-
-• Responsibilities included assisting the course instructor with preparing teaching materials, grading
-coursework and exams, and leading selected tutorial sessions.
-
-• Teaching Evaluation 4.5/5 for 2023, 4.73/5 for 2024
+at the University of Edinburgh Business School during the 2023–2024, 2024–2025, and 2025-2026 academic
+years. Responsibilities included assisting the course instructor with preparing teaching materials, grading
+coursework and exams, and leading selected tutorial sessions.Teaching Evaluation 4.5/5 for 2023, 4.73/5 for 2024.
 
 
 
-Heading 1
-======
+#Heading 1
+#======
 
-Heading 2
-======
+#Heading 2
+#======
 
-Heading 3
-======
+#Heading 3
+#======
