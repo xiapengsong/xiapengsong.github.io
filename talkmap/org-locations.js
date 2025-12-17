@@ -5,11 +5,6 @@ var addressPoints = [
     112.5437075
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
     "The 2025 FMA Annual Meeting<br />Financial Management Association Annual Meeting; Vancouver, Canada",
     49.2608724,
     -123.113952
@@ -18,5 +13,10 @@ var addressPoints = [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
+  ],
+  [
+    "The 9th Shanghai\u2013Edinburgh\u2013London Conference<br />Shanghai\u2013Edinburgh\u2013London Conference; Online",
+    43.5904719,
+    3.8595132
   ]
 ];
