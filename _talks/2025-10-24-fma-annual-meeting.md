@@ -1,7 +1,7 @@
 ---
 title: "The 2025 FMA Annual Meeting"
 collection: talks
-type: "talk"
+type: "Conference"
 permalink: /talks/2025-10-24-fma-annual-meeting
 venue: "Financial Management Association Annual Meeting"
 date: 2025-10-24
