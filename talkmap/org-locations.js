@@ -10,6 +10,11 @@ var addressPoints = [
     -0.1277653
   ],
   [
+    "The 2025 FMA Annual Meeting<br />Financial Management Association Annual Meeting; Vancouver, Canada",
+    49.2608724,
+    -123.113952
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
