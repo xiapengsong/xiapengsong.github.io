@@ -88,8 +88,8 @@ publication_category:
     title: 'Job Market Paper'
   working:
     title: 'Working Papers'    
-  # conferences:
-  #  title: 'Conference Papers'
+  work in progress:
+  title: 'Work in Progress'
 
 # Site Settings
 # teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
