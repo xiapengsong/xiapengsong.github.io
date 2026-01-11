@@ -33,7 +33,7 @@ Education
 
 Job Market Paper
 ======
-**Xiapeng Song**, Wenxuan Hou*, Tong Wang. Labor Coercion, Anti-Market Culture, and Finance: The Lesson from Historical Serfdom of the Russian Empire. (Under Review in Journal of Corporate Finance)
+**Xiapeng Song**, Wenxuan Hou*, Tong Wang. Labor Coercion, Anti-Market Culture, and Finance: The Lesson from Historical Serfdom of the Russian Empire. (**Revise & Resubmit** in **Journal of Corporate Finance**)
 
 
 
