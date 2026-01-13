@@ -26,7 +26,7 @@ Wechat: Lullaby_ouos
   
 Education
 ======
-* Ph.D in Finance, University of Edinburgh, 2026 (expected)
+* Ph.D in Finance, University of Edinburgh, 2026 (Expected)
 * M.S. in Accounting and Finance, London School of Economics and Political Science, 2021
 * B.S. in Economics, University College London, 2020
 
@@ -41,9 +41,9 @@ Working Paper
 ======
 Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. Does Financial Development Have Roman Roots:The Legacy of Roman Roads. (**Revise & Resubmit** in **Journal of Corporate Finance**)
 
-**Xiapeng Song**, Wenxuan Hou, Fangmin Hao*. AI Washing: Strategic Disclosure and Backlash. (**Minor Revision** in **Finance Research Letters**)
-
 **Xiapeng Song**, Aluna Wang*, Tong Wang. Information Portability and the Real Effects of Lending Relationship Disruptions: Evidence from U.S. Bank Mergers. (**Revise & Resubmit** in **Review of Corporate Finance Studies**)
+
+**Xiapeng Song**, Wenxuan Hou, Fangmin Hao*. AI Washing: Strategic Disclosure and Backlash. (**Minor Revision** in **Finance Research Letters**)
 
 Jiang Dai, Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. The Legacy of Repression: Gulag Camps and Long-Run Financial Development in Eastern Europe. (Under Review in Journal of Comparative Economics)
 
