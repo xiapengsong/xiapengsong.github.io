@@ -45,11 +45,13 @@ Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. Does Financial Development Have Ro
 
 **Xiapeng Song**, Wenxuan Hou, Fangmin Hao*. AI Washing: Strategic Disclosure and Backlash. (**Minor Revision** in **Finance Research Letters**)
 
-Jiang Dai, Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. The Legacy of Repression: Gulag Camps and Long-Run Financial Development in Eastern Europe. (Under Review in Journal of Comparative Economics)
+Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. Why Stablecoins Fail: Design Fragilities, Regulation, and the Role of Institutions. (**Accepted** by **Journal of Chinese Economic and Business Studies**)
+
+Jiang Dai, Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. The Legacy of Repression: Gulag Camps and Long-Run Financial Development in Eastern Europe. (Submitted)
 
 Fangmin Hao, Wenxuan Hou*, Lucy Liu, **Xiapeng Song\***. The Impact of LGBT-Supportiv Policies on Corporate Innovation: Gold Rush Legacy. (Submitted)
 
-Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. Why Stablecoins Fail: Design Fragilities, Regulation, and the Role of Institutions. (Submitted)
+
 
 **Xiapeng Song**, Wenxuan Hou*, Tong Wang. Dictatorship, Repression, and Financial Development.
 
