@@ -3,8 +3,8 @@ title: "Why Stablecoins Fail: Design Fragilities, Regulation, and the Role of In
 collection: publications
 category: working
 excerpt: "This paper analyzes stablecoin fragilities from the perspectives of design, regulation, and institutions."
-date: 2025-04-01
-venue: "Submitted"
+date: 2025-06-06
+venue: "Accepted, Journal of Chinese Economic and Business Studies"
 authors: "Hao, Fangmin; Hou, Wenxuan; <strong>Song, Xiapeng*</strong>"
 paperurl: ""
 slidesurl: ""
