@@ -43,7 +43,7 @@ Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. Does Financial Development Have Ro
 
 **Xiapeng Song**, Aluna Wang*, Tong Wang. Information Portability and the Real Effects of Lending Relationship Disruptions: Evidence from U.S. Bank Mergers. (**Revise & Resubmit** in **Review of Corporate Finance Studies**)
 
-**Xiapeng Song**, Wenxuan Hou, Fangmin Hao*. AI Washing: Strategic Disclosure and Backlash. (**Minor Revision** in **Finance Research Letters**)
+**Xiapeng Song**, Wenxuan Hou, Fangmin Hao*. AI Washing: Strategic Disclosure and Backlash. (**Accepted** in **Finance Research Letters**)
 
 Fangmin Hao, Wenxuan Hou, **Xiapeng Song\***. Why Stablecoins Fail: Design Fragilities, Regulation, and the Role of Institutions. (**Accepted** by **Journal of Chinese Economic and Business Studies**)
 
